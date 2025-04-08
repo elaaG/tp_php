@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    color: #2c1616;
+  }
+
+
+  .container {
+    display: flex;
+    flex-direction: row;       
+    justify-content: center;  
+    gap: 10px;                
+    padding: 20px;
+  }
+  
+  .etudiant {
+    border: 1px solid #000;
+    border-radius: 8px;
+    padding: 10px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;    
+  }
+
+.note{
+    padding: 5px;
+    border: 1px solid #1f1d1d;
+    border-radius: 5px;
+    font-weight: bold;
+    flex-direction: column;
+}
+
+.moyenne{
+    background-color: rgb(47, 100, 100);
+    padding: 5px;
+    border: 1px solid #1f1d1d;
+    font-weight: bold;
+}
+

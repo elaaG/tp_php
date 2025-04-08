@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 20px auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+th,td {
+    border: 1px solid #020202;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+a {
+    text-decoration: none;
+}
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #a57a7a;
+    font-size: 2em;
+    padding: 20px 0;
+}
